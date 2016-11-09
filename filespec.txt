@@ -1,0 +1,28 @@
+
+------------------------------
+The name of the file : file_1.txt
+The number of words : 91
+The number of sentences : 3
+The number of paragraphs : 1
+The number of non-alphabetical words : 11
+
+------------------------------
+The name of the file : file_2.txt
+The number of words : 149
+The number of sentences : 6
+The number of paragraphs : 0
+The number of non-alphabetical words : 17
+
+------------------------------
+The name of the file : file_3.txt
+The number of words : 59
+The number of sentences : 2
+The number of paragraphs : 0
+The number of non-alphabetical words : 2
+
+------------------------------
+The name of the file : file_4.txt
+The number of words : 192
+The number of sentences : 7
+The number of paragraphs : 2
+The number of non-alphabetical words : 8
